@@ -7,8 +7,8 @@
 </p>
 
 <h3 align="center">
-  Deploy da Aplicação com Git Pages:
-  <a href="https://diegolramos.github.io/relogio-digital/" target="__blank">ACESSE AQUI </p>
+  Deploy da Aplicação com Replit:
+  <a href="https://relogio-digital.diegolramos.repl.co" target="__blank">ACESSE AQUI </p>
 </h3>
 
 <h4 align="center">
